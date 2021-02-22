@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-vdoing": "^1.8.1"
+  }
+}
